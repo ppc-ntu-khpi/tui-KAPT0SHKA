@@ -1,4 +1,23 @@
-[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15141576)
+### Код, та робота програми
+### На "трійку"
+
+![](screenshot/1.png)
+
+### На "чотири"
+
+![](screenshot/8.png)
+
+![](screenshot/2.png)
+
+![](screenshot/3.png)
+
+![](screenshot/4.png)
+
+![](screenshot/5.png)
+![](screenshot/6.png)
+![](screenshot/7.png)
+
+
 # UI Lab 1
 ![](terminal-icon.png)
 ![](gui-icon.png)
